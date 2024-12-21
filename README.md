@@ -8,7 +8,7 @@ Tecnologias utilizadas no projeto:
   
 PROMPTS
 - Copilot
-'creat an image in a ilustration design of a silhouette of a woman running fast, with colourful elements with a dark blue background
+'create an image of silhouette of a woman running, minimalist art style, vibrant colors, dark blue background
 
 - ChatGPT
 'Crie alguns títulos de E-book sobre Metodologias Ágeis 
