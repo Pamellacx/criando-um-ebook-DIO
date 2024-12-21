@@ -2,7 +2,7 @@
 Esse E-book foi criado com as orientações da DIO - no Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
 Tecnologias utilizadas no projeto:
-- [Copilot da Microsoft] (https://copilot.microsoft.com/) 
+- [Copilot da Microsoft](https://copilot.microsoft.com/) 
 - [ChatGPT](https://chat.openai.com/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
   
